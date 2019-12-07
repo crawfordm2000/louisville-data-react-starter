@@ -3,6 +3,8 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+import mapboxgl from 'mapbox-gl';
+mapboxgl.accessToken = 'pk.eyJ1IjoiY3Jhd2ZvcmRtMjAwMCIsImEiOiJjazN2cHhqZXYwbGVhM25teTM5bmlxaDY3In0.ZlnlJV16aqa8N4r0RAwyvQ';
 
 ReactDOM.render(<App />, document.getElementById('root'));
 

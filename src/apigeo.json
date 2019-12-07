@@ -1,0 +1,166 @@
+[
+  {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": { "type": "Point", "coordinates": [-85.8267, 38.2315] },
+        "properties": {
+          "index": 54,
+          "parameterName": "PM2.5",
+          "movingAverage": 13.6
+        }
+      }
+    ]
+  },
+  {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": { "type": "Point", "coordinates": [-85.8267, 38.2315] },
+        "properties": {
+          "Index": 350,
+          "ParameterName": "PM2.5",
+          "MovingAverage": 13.6
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": { "type": "Point", "coordinates": [-85.6544, 38.2288] },
+        "properties": {
+          "Index": 58,
+          "ParameterName": "PM2.5",
+          "MovingAverage": 15.2
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": { "type": "Point", "coordinates": [-85.4433, 38.3986] },
+        "properties": null
+      },
+      {
+        "type": "Feature",
+        "geometry": { "type": "Point", "coordinates": [-85.713, 37.9855] },
+        "properties": null
+      },
+      {
+        "type": "Feature",
+        "geometry": { "type": "Point", "coordinates": [-85.5744, 38.1825] },
+        "properties": {
+          "Index": 58,
+          "ParameterName": "PM2.5",
+          "MovingAverage": 15.6
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": { "type": "Point", "coordinates": [-85.664167, 38.393833] },
+        "properties": null
+      },
+      {
+        "type": "Feature",
+        "geometry": { "type": "Point", "coordinates": [-85.834167, 38.308056] },
+        "properties": null
+      },
+      {
+        "type": "Feature",
+        "geometry": { "type": "Point", "coordinates": [-85.741337, 38.288191] },
+        "properties": null
+      },
+      {
+        "type": "Feature",
+        "geometry": { "type": "Point", "coordinates": [-85.7119, 38.1936] },
+        "properties": {
+          "Index": 60,
+          "ParameterName": "PM2.5",
+          "MovingAverage": 16.3
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": { "type": "Point", "coordinates": [-85.898, 38.0609] },
+        "properties": {
+          "Index": 54,
+          "ParameterName": "PM2.5",
+          "MovingAverage": 13.3
+        }
+      }
+    ]
+  },
+  {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": { "type": "Point", "coordinates": [-85.8267, 38.2315] },
+        "properties": {
+          "Index": 54,
+          "ParameterName": "PM2.5",
+          "MovingAverage": 13.6
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": { "type": "Point", "coordinates": [-85.6544, 38.2288] },
+        "properties": {
+          "Index": 58,
+          "ParameterName": "PM2.5",
+          "MovingAverage": 15.2
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": { "type": "Point", "coordinates": [-85.4433, 38.3986] },
+        "properties": null
+      },
+      {
+        "type": "Feature",
+        "geometry": { "type": "Point", "coordinates": [-85.713, 37.9855] },
+        "properties": null
+      },
+      {
+        "type": "Feature",
+        "geometry": { "type": "Point", "coordinates": [-85.5744, 38.1825] },
+        "properties": {
+          "Index": 58,
+          "ParameterName": "PM2.5",
+          "MovingAverage": 15.6
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": { "type": "Point", "coordinates": [-85.664167, 38.393833] },
+        "properties": null
+      },
+      {
+        "type": "Feature",
+        "geometry": { "type": "Point", "coordinates": [-85.834167, 38.308056] },
+        "properties": null
+      },
+      {
+        "type": "Feature",
+        "geometry": { "type": "Point", "coordinates": [-85.741337, 38.288191] },
+        "properties": null
+      },
+      {
+        "type": "Feature",
+        "geometry": { "type": "Point", "coordinates": [-85.7119, 38.1936] },
+        "properties": {
+          "Index": 60,
+          "ParameterName": "PM2.5",
+          "MovingAverage": 16.3
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": { "type": "Point", "coordinates": [-85.898, 38.0609] },
+        "properties": {
+          "Index": 54,
+          "ParameterName": "PM2.5",
+          "MovingAverage": 13.3
+        }
+      }
+    ]
+  }
+]
